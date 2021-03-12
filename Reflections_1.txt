@@ -1,0 +1,2 @@
+Jaka jest różnica między wymaganiami funkcjonalnymi i niefunkcjonalnymi?
+Wymagania funkcjonalne – opisują funkcje (czynności, operacje, usługi) wykonywane przez system, Wymagania niefunkcjonalne – opisują ograniczenia, przy zachowaniu których system powinien realizować swe funkcje.
