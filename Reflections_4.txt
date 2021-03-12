@@ -1,1 +1,0 @@
-W przypadku Scrum, product owner nie może dokonywać zmian w tablicy, to zespół decyduje których zadań się podjął w danej iteracji. W przypadku Kanban istnieje większa dowolność w nadawaniu uprawnień poszczególnym członkom teamu, zazwyczaj product owner ma możliwość dokonywania zmian w kolumnach To do czy Backlogu
